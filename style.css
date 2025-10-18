@@ -1,0 +1,45 @@
+.header{
+    padding-bottom: 10px;
+    font-family:'Times New Roman', Times, serif;
+    background-color: black;
+    color: rgb(255, 255, 255);
+   height: 825px;
+}
+.body{
+    margin:0%
+}
+.background{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    margin:0%
+}
+
+
+.h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    text-align: justify;
+    color: rgb(158, 5, 5);
+    text-align: center;
+}
+
+
+.class{
+    height: 350px;
+    width: 400px;
+    border-style: solid;
+    border-width: 20px;
+    border-radius: 200px;
+    border-color: rgb(255, 255, 255);
+
+    padding: 30px;
+    margin: 30px;
+
+}
+
+
+
+
+
+
+
